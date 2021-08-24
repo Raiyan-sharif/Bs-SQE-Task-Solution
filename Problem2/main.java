@@ -46,6 +46,8 @@ public class main {
 }
 
 /*
+ * Input Sample
+5
 33 Rumpa 3.68
 85 Ashis 3.85
 56 Samiha 3.75
