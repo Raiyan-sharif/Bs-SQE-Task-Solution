@@ -1,0 +1,4 @@
+SELECT Name 
+FROM STUDENTS
+Where Makrs>75
+Order by RIGHT(Name, 3) ASC, ID ASC;
